@@ -2,6 +2,10 @@
 
 An interactive Tableau project analysing retail sales, profitability, order performance, customer segments, product rankings and future sales forecasts.
 
+## Dashboard Preview
+
+![Retail Sales Performance Dashboard](retail-sales-dashboard.png)
+
 ## Live Dashboard
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/RetailSalesPerformance_17890967639390/RetailSalesExecutiveStory?:language=en-US&:display_count=n&:origin=viz_share_link)
